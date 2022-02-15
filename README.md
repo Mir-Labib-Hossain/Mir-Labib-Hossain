@@ -3,4 +3,3 @@
 - 👯 I’m looking to collaborate on React
 - 🤔 I’m looking for help with NodeJS
 - 📫 How to reach me: [instagram](https://www.instagram.com/_mir.labib_)
-- ⚡ Fun fact: Small Learner 
