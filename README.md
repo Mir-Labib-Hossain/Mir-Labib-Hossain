@@ -14,4 +14,4 @@
 [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) 
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
-[![vite Badge](https://img.shields.io/badge/vite-F05032?style=for-the-badge&logo=vite&logoColor=white)](#)
+[![vite Badge](https://img.shields.io/badge/vite-5C2D91?style=for-the-badge&logo=vite&logoColor=white)](#)
