@@ -20,3 +20,4 @@
 
 [![Laravel Badge](https://img.shields.io/badge/Laravel-F05032?style=for-the-badge&logo=Laravel&logoColor=white)](#)
 [![Python Badge](https://img.shields.io/badge/Python-4EA94B?style=for-the-badge&logo=Python&logoColor=white)](#)
+[![MySQL Badge](https://img.shields.io/badge/MySQL-F05032?style=for-the-badge&logo=MySQL&logoColor=white)](#)
