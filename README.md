@@ -17,4 +17,5 @@
 [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) 
 
 :gift: &emsp;Extra
-[![Laravel Badge](https://img.shields.io/badge/Laravel-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+
+[![Laravel Badge](https://img.shields.io/badge/Laravel-F05032?style=for-the-badge&logo=Laravel&logoColor=white)](#)
