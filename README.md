@@ -21,3 +21,6 @@
 [![Laravel Badge](https://img.shields.io/badge/Laravel-F05032?style=for-the-badge&logo=Laravel&logoColor=white)](#)
 [![Python Badge](https://img.shields.io/badge/Python-4EA94B?style=for-the-badge&logo=Python&logoColor=white)](#)
 [![MySQL Badge](https://img.shields.io/badge/MySQL-F05032?style=for-the-badge&logo=MySQL&logoColor=white)](#)
+[![Flask Badge](https://img.shields.io/badge/Flask-FF0000?style=for-the-badge&logo=Flask&logoColor=white)](#)
+[![PHP Badge](https://img.shields.io/badge/PHP-1877F2?style=for-the-badge&logo=PHP&logoColor=white)](#) 
+[![Jinja Badge](https://img.shields.io/badge/Jinja-white?style=for-the-badge&logo=Jinja&logoColor=FF0000)](#)
