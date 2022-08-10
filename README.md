@@ -13,11 +13,11 @@
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://github.com/Mir-Labib-Hossain/E-Commerce-with-cart) 
 [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Mir-Labib-Hossain/cholochitro-NETFLIX-clone)
 [![Vite Badge](https://img.shields.io/badge/vite-A14AED?style=for-the-badge&logo=vite&logoColor=white)](https://github.com/Mir-Labib-Hossain/JEST-testing-setup-with-vite-reactTS)
+[![Docker Badge](https://img.shields.io/badge/Docker-1DA1F2?style=for-the-badge&logo=docker&logoColor=white)]
 [![Redux Badge](https://img.shields.io/badge/Redux-7447B2?style=for-the-badge&logo=Redux&logoColor=white)](https://github.com/Mir-Labib-Hossain/cholochitro-NETFLIX-clone)
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Mir-Labib-Hossain)
 [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-1877F2?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) 
 
-[![Svelt Badge](https://img.shields.io/badge/Svelt-7447B2?style=for-the-badge&logo=Svelt&logoColor=white)](https://github.com/Mir-Labib-Hossain/cholochitro-NETFLIX-clone)
 
 
 :gift: &emsp;Extra
