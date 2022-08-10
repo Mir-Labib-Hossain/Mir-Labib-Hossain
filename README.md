@@ -17,6 +17,9 @@
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Mir-Labib-Hossain)
 [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-1877F2?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) 
 
+[![Svelt Badge](https://img.shields.io/badge/Svelt-7447B2?style=for-the-badge&logo=Svelt&logoColor=white)](https://github.com/Mir-Labib-Hossain/cholochitro-NETFLIX-clone)
+
+
 :gift: &emsp;Extra
 
 [![Laravel Badge](https://img.shields.io/badge/Laravel-F05032?style=for-the-badge&logo=Laravel&logoColor=white)](https://github.com/Mir-Labib-Hossain/laravel8-fully-dynamic-ecommerce)
