@@ -22,16 +22,18 @@
 
 :gift: &emsp;Extra
 
+[![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)](https://github.com/Mir-Labib-Hossain/CYPRESS-TDD-demo-authentication-system)
+[![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)](https://github.com/Mir-Labib-Hossain/WhatsApp-clone)
 [![Laravel Badge](https://img.shields.io/badge/Laravel-F05032?style=for-the-badge&logo=Laravel&logoColor=white)](https://github.com/Mir-Labib-Hossain/laravel8-fully-dynamic-ecommerce)
 [![Jest Badge](https://img.shields.io/badge/Jest-FF0000?style=for-the-badge&logo=Jest&logoColor=white)](https://github.com/Mir-Labib-Hossain/JEST-testing-setup-with-vite-reactTS)
-[![Python Badge](https://img.shields.io/badge/Python-4EA94B?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/Mir-Labib-Hossain/multiple-nation-currency-converter)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/Mir-Labib-Hossain/multiple-nation-currency-converter)
 [![MySQL Badge](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=MySQL&logoColor=F05032)](https://github.com/Mir-Labib-Hossain/laravel8-fully-dynamic-ecommerce)
 [![Flask Badge](https://img.shields.io/badge/Flask-FF0000?style=for-the-badge&logo=Flask&logoColor=white)](https://github.com/Mir-Labib-Hossain/university-management-system)
 [![PHP Badge](https://img.shields.io/badge/PHP-1877F2?style=for-the-badge&logo=PHP&logoColor=white)](https://github.com/Mir-Labib-Hossain/laravel8-fully-dynamic-ecommerce) 
 [![Jinja Badge](https://img.shields.io/badge/Jinja-white?style=for-the-badge&logo=Jinja&logoColor=FF0000)](https://github.com/Mir-Labib-Hossain/university-management-system)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-
-
-
-<a href="https://www.buymeacoffee.com/mirlabibhossain" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://www.buymeacoffee.com/mirlabibhossain" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 30px !important;width: auto !important;" ></a>
 
