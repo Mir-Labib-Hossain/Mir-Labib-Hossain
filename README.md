@@ -60,4 +60,5 @@ ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
+![](https://i.imgur.com/waxVImv.png)
 <a href="https://www.buymeacoffee.com/mirlabibhossain" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 30px !important;width: auto !important;" ></a>
