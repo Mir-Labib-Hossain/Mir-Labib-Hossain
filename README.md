@@ -25,16 +25,16 @@ import ReactDOM from "react-dom/client";
 import React from "react";
 
 type Props = {
-  name: string;
+  fullName: string;
 };
 
 function Greeting({ name }: Props) {
-  return <p>Hello everyone, I am {name}.</p>;
+  return <p>Hello everyone, I am {fullName}, Jr. Software Engineer from Dhaka, Bangladesh.</p>;
 }
 
 ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
   <React.StrictMode>
-    <Greeting name="Mir Labib Hossain" />
+    <Greeting fullName="Mir Labib Hossain" />
   </React.StrictMode>
 );
 
