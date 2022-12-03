@@ -20,7 +20,25 @@
 [![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://github.com/Mir-Labib-Hossain)
 [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-1877F2?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) 
 
+```jsx
+import ReactDOM from "react-dom/client";
+import React from "react";
 
+type Props = {
+  name: string;
+};
+
+function Greeting({ name }: Props) {
+  return <p>Hello everyone, I am {name}.</p>;
+}
+
+ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
+  <React.StrictMode>
+    <Greeting name="Mir Labib Hossain" />
+  </React.StrictMode>
+);
+
+```
 
 :gift: &emsp;Extra
 ![](https://i.imgur.com/waxVImv.png)
