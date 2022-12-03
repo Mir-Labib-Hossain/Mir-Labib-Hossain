@@ -21,23 +21,27 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ```jsx
-import ReactDOM from "react-dom/client";
-import React from "react";
+import React from "react"
+import ReactDOM from "react-dom/client"
 
 type Props = {
-  fullName: string;
-};
+  fullName: string
+}
 
-function Greeting({ name }: Props) {
-  return <p>Hello everyone, I am {fullName}, Jr. Software Engineer from Dhaka, Bangladesh.</p>;
+const Greeting = ({ fullName }: Props) => {
+  return (
+    <p>
+      Hello everyone, I am {fullName}, Jr. Software Engineer from Dhaka,
+      Bangladesh.
+    </p>
+  )
 }
 
 ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
   <React.StrictMode>
     <Greeting fullName="Mir Labib Hossain" />
   </React.StrictMode>
-);
-
+)
 ```
 
 :gift:  Extra
