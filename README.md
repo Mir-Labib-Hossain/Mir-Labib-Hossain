@@ -1,4 +1,5 @@
 :coffee: &emsp;Connect with me!
+![](https://i.imgur.com/waxVImv.png)
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mir.labib.hossain/) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mir-labib-hossain-775b321aa/) 
@@ -8,6 +9,7 @@
 
 
 :basketball: &emsp;Currently I am working with
+![](https://i.imgur.com/waxVImv.png)
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://github.com/Mir-Labib-Hossain/static-projects---snippets---problem-solving/tree/main/js/snippets) 
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://github.com/Mir-Labib-Hossain/E-Commerce-with-cart) 
@@ -21,6 +23,7 @@
 
 
 :gift: &emsp;Extra
+![](https://i.imgur.com/waxVImv.png)
 
 [![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)](https://github.com/Mir-Labib-Hossain/CYPRESS-TDD-demo-authentication-system)
 [![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)](https://github.com/Mir-Labib-Hossain/WhatsApp-clone)
