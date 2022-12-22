@@ -48,7 +48,7 @@ ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
 ![](https://i.imgur.com/waxVImv.png)
 
 [![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)](https://github.com/Mir-Labib-Hossain/CYPRESS-TDD-demo-authentication-system)
-[![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)](https://github.com/Mir-Labib-Hossain/WhatsApp-clone)
+[![Socket.io](https://img.shields.io/badge/Socket.io-151B22?style=for-the-badge&logo=socket.io&badgeColor=010101)](https://github.com/Mir-Labib-Hossain/WhatsApp-clone)
 [![Laravel Badge](https://img.shields.io/badge/Laravel-F05032?style=for-the-badge&logo=Laravel&logoColor=white)](https://github.com/Mir-Labib-Hossain/laravel8-fully-dynamic-ecommerce)
 [![Jest Badge](https://img.shields.io/badge/Jest-FF0000?style=for-the-badge&logo=Jest&logoColor=white)](https://github.com/Mir-Labib-Hossain/JEST-testing-setup-with-vite-reactTS)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/Mir-Labib-Hossain/multiple-nation-currency-converter)
@@ -60,5 +60,9 @@ ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
+✍️ My Blog
 ![](https://i.imgur.com/waxVImv.png)
+[![Medium](https://img.shields.io/badge/Medium-151B22?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mirlabibhossain99)
+![](https://i.imgur.com/waxVImv.png)
+
 <a href="https://www.buymeacoffee.com/mirlabibhossain" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 30px !important;width: auto !important;" ></a>
